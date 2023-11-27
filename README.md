@@ -1,2 +1,2 @@
-# TIEdit
-Editor/Detokenizer for BASIC programs on TI-89/92/V200, written about 2003
+# TiEdit_VB
+TI BASIC Editor for 68K calculators
